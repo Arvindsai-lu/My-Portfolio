@@ -7,27 +7,7 @@
 
  Copyright The Closure Library Authors.
  SPDX-License-Identifier: Apache-2.0
-*/
-/*
 
- Copyright 2011 Google LLC.
- SPDX-License-Identifier: Apache-2.0
-*/
-/*
-
- Copyright 2013 Google LLC.
- SPDX-License-Identifier: Apache-2.0
-*/
-/*
-
- Copyright 2020 Google LLC.
- SPDX-License-Identifier: Apache-2.0
-*/
-/*
-
- Copyright 2005 Google LLC.
- SPDX-License-Identifier: Apache-2.0
-*/
 }).call(this);
 </script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-177794651-1" nonce=""></script><script nonce="">
           window.dataLayer = window.dataLayer || [];
